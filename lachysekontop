@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Moje fotka</title>
+</head>
+<body>
+  <h1>Moje fotka</h1>
+  <img src="lachyseknatopu.jpg" alt="Moje fotka" style="max-width:100%;">
+</body>
+</html>
